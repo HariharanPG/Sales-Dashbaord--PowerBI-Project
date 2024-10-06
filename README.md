@@ -14,26 +14,26 @@ Welcome to my Sales Dashboard project! This repository features an interactive s
 
 ## 👉🏻 Dataset
 The dataset includes key sales metrics such as:
-  Order Date
+  ---> Order Date
 
-  Region
+  ---> Region
 
-  Product Category
+  ---> Product Category
 
-  Sales Amount
+  ---> Sales Amount
 
-  Profit
+  ---> Profit
 
-  Discount Rate
+  ---> Discount Rate
 
-  Customer Information
+  ---> Customer Information
 
 ##  👉🏻 Objective
 The primary objective of this dashboard is to provide a comprehensive overview of sales performance, offering decision-makers actionable insights to boost revenue, optimize inventory, and improve customer satisfaction.
 
 ## 👉🏻 Tools & Technologies
-Power BI: For creating interactive data visualizations.
+**Power BI**: For creating interactive data visualizations.
 
-CSV Files: Source of sales data.
+**CSV Files:** Source of sales data.
 
-GitHub Pages: Hosting the repository and sharing the Power BI dashboard.
+**GitHub Pages:** Hosting the repository and sharing the Power BI dashboard.
