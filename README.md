@@ -5,18 +5,27 @@ Welcome to my Sales Dashboard project! This repository features an interactive s
 Sales Overview: Displays total sales figures, trends over time, and key performance indicators.
 
 Regional Performance: Visualizes sales distribution across different regions to identify top-performing markets.
+
 Product Analysis: Detailed breakdown of sales by product category, helping to uncover the most profitable products.
+
 Customer Insights: Analyze customer segmentation based on purchase behavior and regional preferences.
+
 Interactive Filtering: Allows users to filter data by time period, region, product category, and more for a customized analysis.
 
 ## 👉🏻 Dataset
 The dataset includes key sales metrics such as:
   Order Date
+
   Region
+
   Product Category
+
   Sales Amount
+
   Profit
+
   Discount Rate
+
   Customer Information
 
 ##  👉🏻 Objective
@@ -24,5 +33,7 @@ The primary objective of this dashboard is to provide a comprehensive overview o
 
 ## 👉🏻 Tools & Technologies
 Power BI: For creating interactive data visualizations.
+
 CSV Files: Source of sales data.
+
 GitHub Pages: Hosting the repository and sharing the Power BI dashboard.
