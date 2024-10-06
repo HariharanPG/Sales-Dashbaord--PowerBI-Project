@@ -3,6 +3,7 @@ Welcome to my Sales Dashboard project! This repository features an interactive s
 
 ## 👉🏻 Key Features
 Sales Overview: Displays total sales figures, trends over time, and key performance indicators.
+
 Regional Performance: Visualizes sales distribution across different regions to identify top-performing markets.
 Product Analysis: Detailed breakdown of sales by product category, helping to uncover the most profitable products.
 Customer Insights: Analyze customer segmentation based on purchase behavior and regional preferences.
