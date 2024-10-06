@@ -1,5 +1,5 @@
 # 📊 Sales Dashboard- PowerBI Project
-Welcome to my Sales Dashboard project! This repository features an interactive sales performance dashboard created using Power BI. It provides insightful visualizations and analyses of key sales metrics to help stakeholders make informed business decisions. You can view the live dashboard here: Live Sales Dashboard.
+Welcome to my Sales Dashboard project! This repository features an interactive sales performance dashboard created using Power BI. It provides insightful visualizations and analyses of key sales metrics to help stakeholders make informed business decisions. You can view the live dashboard here: [Live Sales Dashboard](https://lnkd.in/gE6fUpMz).
 
 ## 👉🏻 Key Features
 **Sales Overview:** Displays total sales figures, trends over time, and key performance indicators.
